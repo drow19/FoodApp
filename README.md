@@ -1,6 +1,6 @@
 # FoodApp
 
-APK : <a id="raw-url" href="https://github.com/drow19/FoodApp/tree/master/apk/FoodAppk">Download FILE</a>
+APK : <a id="raw-url" href="https://github.com/drow19/FoodApp/tree/master/apk/FoodApp">Download FILE</a>
 
 HomePage :
  - Halaman utama yang menampilkan list category dan juga menu search untuk pencarian makanan<br/><br/>![](images/category.jpg)
