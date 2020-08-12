@@ -21,8 +21,6 @@ class DescriptionPage extends StatelessWidget {
                   _buildPurpose(context),
                   _buildSeparator(screenSize),
                   SizedBox(height: 10.0),
-                  _buildTools(),
-                  SizedBox(height: 8.0),
                 ],
               ),
             ),
@@ -78,7 +76,7 @@ class DescriptionPage extends StatelessWidget {
     );
 
     return Text(
-      'Indra Septian Heru',
+      'Drow',
       style: _nameTextStyle,
     );
   }
@@ -116,7 +114,7 @@ class DescriptionPage extends StatelessWidget {
       color: Theme.of(context).scaffoldBackgroundColor,
       padding: EdgeInsets.all(8.0),
       child: Text(
-        'Bandung, 14 September 1991\n 085624612800\n drowenn19@gmail.com',
+        'Bandung, xx September 199x\n 0856246128xxx\n drowenn19@gmail.com',
         textAlign: TextAlign.center,
         style: bioTextStyle,
       ),
@@ -137,8 +135,8 @@ class DescriptionPage extends StatelessWidget {
       color: Theme.of(context).scaffoldBackgroundColor,
       padding: EdgeInsets.all(8.0),
       child: Text(
-        'Aplikasi ini adalah aplikasi yang bertema FoodApp, dimana didalamnya '
-            'terdapat list menu - menu makanan, bahan - bahan yang dibutuhkan serta cara membuat masakan tersebut.',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. '
+            'Vivamus sodales maximus dictum. Vestibulum faucibus lacinia venenatis. Fusce posuere urna nisi.',
         textAlign: TextAlign.center,
         style: bioTextStyle,
       ),
@@ -159,8 +157,7 @@ class DescriptionPage extends StatelessWidget {
       color: Theme.of(context).scaffoldBackgroundColor,
       padding: EdgeInsets.all(8.0),
       child: Text(
-        'TUJUAN : \n Tujuan dibuatnya aplikasi ini adalah untuk memenuhi syarat '
-            'lulus test Mobile Developer step-2 \nCODEHOUSE',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sodales maximus dictum. Vestibulum faucibus lacinia venenatis. Fusce posuere urna nisi',
         textAlign: TextAlign.center,
         style: bioTextStyle,
       ),
