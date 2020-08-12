@@ -15,6 +15,4 @@ HomePage :
  
 DetailPage :
  - Halaman ketiga yang menampilkan list detail dari makanan dan juga menu video tutorial youtube<br/><br/>![](images/detail.jpg)
- 
-DescriptionPage:
- - Halaman yang menampilkan biodata, deskripsi dan tujuan aplikasi, serta tools yang digunakan<br/><br/>![](images/desc.jpg)
+
