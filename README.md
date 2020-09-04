@@ -10,10 +10,4 @@ source : https://www.themealdb.com/api.php
 
 ## Screenshot
 
-![](images/category.jpg)
-
-![](images/list_by_category.jpg)
-
-![](images/detail.jpg)
-
-![](images/desc.jpg)
+![](images/category.jpg) ![](images/list_by_category.jpg) ![](images/detail.jpg)
